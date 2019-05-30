@@ -1,0 +1,17 @@
+{
+  "name": "tc39-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "graphql": "^14.1.1",
+    "node-fetch": "^2.3.0",
+    "whatwg-fetch": "^3.0.0"
+  }
+}
